@@ -1,5 +1,5 @@
 {
-  "name": "ryusui-api",
+  "name": "fca-ryusui",
   "version": "1.0.5",
   "description": "A Facebook chat API that doesn't rely on XMPP. Will NOT be deprecated after April 30th 2015.",
   "scripts": {
@@ -18,7 +18,7 @@
     "fca"
   ],
   "bugs": {
-    "url": "https://github.com/fca-unofficial/fca-unofficial/issues"
+    "url": "https://github.com/GIANJAJAHAHAHA/fca-api/issues"
   },
   "author": "yanyan472",
   "license": "MIT",
